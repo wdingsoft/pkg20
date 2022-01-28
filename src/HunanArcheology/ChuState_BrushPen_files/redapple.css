@@ -1,0 +1,159 @@
+﻿.dz {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 19px;
+	color: #2B0E02;
+	text-decoration: none;
+	font-weight: normal;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.ggw {  font-family: "宋体"; font-size: 9px; color: #FFFFFF; text-decoration: none}
+.yw {  font-family: "宋体"; font-size: 12px; color: #7B7B7B; text-decoration: none}
+.gg {  font-family: "宋体"; font-size: 12px; color: #666666; text-decoration: none}
+.dian {  font-family: "宋体"; font-size: 6px; color: #666666; text-decoration: none}
+.add {  font-family: "宋体"; line-height: 18px; color: #999999; text-decoration: none; font-size: 12px}
+.wz {  font-family: "宋体"; font-size: 14px; line-height: 20px; color: #2A2A2A; text-decoration: none; font-weight: normal}
+a.wz:link {  font-family: "宋体"; font-size: 14px; line-height: 24px; color: #424141; text-decoration: none}
+a.wz:hover {  font-family: "宋体"; font-size: 14px; line-height: 24px; color: #FF6600; text-decoration: none}
+a.wz:active {  font-family: "宋体"; font-size: 14px; line-height: 24px; color: #0066CC; text-decoration: none}
+a.wz:visited {  font-family: "宋体"; font-size: 14px; line-height: 24px; color: #424141; text-decoration: none}
+a.we:link {  font-family: "宋体"; font-size: 13px; line-height: 20px; color: #000000; text-decoration: none}
+a.we:hover {
+	font-family: "宋体";
+	font-size: 13px;
+	line-height: 20px;
+	color: #DD5800;
+	text-decoration: none;
+	font-weight: normal
+}
+a.we:active {  font-family: "宋体"; font-size: 13px; line-height: 20px; color: #008080; text-decoration: none; font-weight: normal}
+a.we:visited {  font-family: "宋体"; font-size: 13px; line-height: 20px; color: #000000; text-decoration: none; font-weight: normal}
+.bl {
+	font-family: "宋体";
+	font-size: 14px;
+	line-height: 20px;
+	color: #0F85BD;
+	text-decoration: none;
+	font-weight: bold
+}
+.newswz {
+	font-family: "宋体";
+	font-size: 14px;
+	line-height: 26px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: normal
+}
+.we {  font-family: "宋体"; font-size: 13px; line-height: 20px; color: #000000; text-decoration: none; font-weight: normal}
+.dbl {
+	font-family: "宋体";
+	font-size: 18px;
+	font-weight: bold;
+	color: #961000;
+	text-decoration: none;
+	line-height: 30px
+}
+.db2 {
+	font-family: "宋体";
+	font-size: 14px;
+	font-weight: bold;
+	color: #BF7300;
+	text-decoration: none;
+	line-height: 20px
+}
+.bai {  font-family: "宋体"; font-size: 13px; font-weight: normal; color: #FFFFFF; text-decoration: none; line-height: 24px}
+.wzy {
+	font-family: "宋体";
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+wzh {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #000000;
+}
+
+
+.wz3 {
+	font-family: "宋体";
+	font-size: 13px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	line-height: 20px
+}
+.form {  margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.ljj {  font-family: "宋体"; font-size: 12px; color: #69685E; text-decoration: none}
+.lj {
+	font-size: 13px;
+	line-height: 19px;
+	color: #BF7300;
+	text-decoration: none;
+	height:26px;
+	display:block;
+	;
+	clip:   rect(   );
+	font-weight: normal;
+	;
+	font-family: "宋体"
+} 
+.bth {
+	font-family: "宋体";
+	font-size: 12px;
+	font-weight: normal;
+	color: #000099;
+	text-decoration: none;
+	line-height: 20px;
+}
+.ml {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #F6EDCE;
+	text-decoration: none;
+	line-height: 25px;
+}
+
+
+a.lj:link {  background-image:url(dh/d531.gif);font-size: 13px;line-height: 19px;color: #BF7300;text-decoration: none;display:block;; font-family: "宋体"; font-weight: normal}
+a.lj:hover {  background-image:url(dh/x262.gif);font-size: 13px;line-height: 19px;color: #A82327;text-decoration: none;display:block;; font-family: "宋体"; font-weight: normal; height: 26px; clip:  rect(   )}
+.bwz {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.bwzd {
+	font-family: "宋体";
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #BF7300;
+}
+.bwez {
+	font-family: "宋体";
+	font-size: 12px;
+	font-weight: bold;
+	color: #787153;
+	text-decoration: none;
+}
+.lzz {
+	font-family: "宋体";
+	font-size: 12px;
+}
+.STYLE1 {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #40B9D7;
+; line-height: 22px; font-weight: normal
+; text-decoration: none
+}
+.dz2 {  font-family: "宋体"; font-size: 12px; line-height: 18px; font-weight: normal; color: #98DCDC; text-decoration: none}
+.newswzf {  font-family: "宋体"; font-size: 14px; line-height: 20px; color: #4B4B4B; text-decoration: none; font-weight: normal}
+.backk {  background-image: url(banner/back.jpg); background-repeat: no-repeat; background-position: center}
