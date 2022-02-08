@@ -1,0 +1,205 @@
+#sec{
+	width: 1200px;
+	height: 1420px;
+	margin: 0 auto;
+}
+
+.sec-right h2{
+	color: #101010;
+	font-size: 30px;
+	margin-top: 30px;
+	margin-left: 115px;
+}
+.sec-right span{
+	width: 800px;
+	height: 1px;
+	background-color: #616161;
+	display: block;
+	margin-top: 15px;
+	margin-left: 115px;
+}
+.sec-right .yunhan{
+	width: 800px;
+	height: 230px;
+	margin-left: 115px;
+	margin-top: 15px;
+}
+.sec-right .kehu{
+	width: 800px;
+	height: 230px;
+	margin-left: 115px;
+	margin-top: 15px;
+}
+.sec-right .wangzhan{
+	width: 800px;
+	height: 230px;
+	margin-left: 115px;
+	margin-top: 15px;
+}
+.yunhan>p{
+	line-height:28px ;
+	margin: 22px 0px 22px 0px;
+	text-indent: 2em;
+	font-size: 15px;
+	color: #101010;
+}
+.kehu>p{
+	line-height:28px ;
+	margin: 22px 0px 22px 0px;
+	text-indent: 2em;
+	font-size: 15px;
+	color: #101010;
+}
+.wangzhan>p{
+	line-height:28px ;
+	margin: 22px 0px 22px 0px;
+	text-indent: 2em;
+	font-size: 15px;
+	color: #101010;
+}
+.sec-right img{
+	width: 108px;
+	height: 108px;
+	margin-top: 30px;
+	margin-left: 461px;
+	float: none;
+}
+.sec-right h3{
+	color: #101010;
+	font-size: 18px;
+	font-weight: 500;
+	margin-left: 115px;
+	margin-top: 30px;
+}
+@media (max-width: 767px) {
+	#sec{
+		width: 315px;
+		margin: 0 auto;
+	}
+	.sec-right h2{
+		color: #101010;
+		margin-top: 15px;
+		margin-left: 5px;
+		font-size: 25px;
+	}
+	.sec-right span{
+		width: 325px;
+		height: 1px;
+		background-color: #616161;
+		display: block;
+		margin-top: 15px;
+		margin-left: 5px;
+	}
+	.sec-right .yunhan{
+		width: 315px;
+		height: 230px;
+		margin-left: 5px;
+		margin-top: 30px;
+	}
+	.sec-right .kehu{
+		width: 315px;
+		height: 230px;
+		margin-left: 5px;
+		margin-top: 20px;
+	}
+	.yunhan>p{
+		line-height:28px ;
+		margin: 22px 0px 22px 0px;
+		text-indent: 2em;
+		font-size: 15px;
+		color: #101010;
+	}
+	.sec-right img{
+		width: 80px !important;
+		height: 80px !important;
+		float: none;
+		margin-left: 120px;
+	    margin-top: 270px;
+	}
+	.sec-right h3{
+		color: #101010;
+		font-size: 18px;
+		font-weight: 500;
+		margin-left: 5px;
+		margin-top: 30px;
+	}
+	.sec-right .wangzhan{
+		width: 315px;
+		height: 300px;
+		margin-left: 5px;
+		margin-top: 15px;
+	}
+}
+/*小于1200px尺寸的小屏幕电脑样式*/
+@media (min-width: 998px) and (max-width:1200px ) { 
+	.sec-right{
+		width: 860px;
+	}
+	.sec-right h2{
+		color: #101010;
+		font-size: 30px;
+		margin-top: 30px;
+		margin-left: 100px;
+	}
+	.sec-right span{
+		width: 700px;
+		height: 1px;
+		background-color: #616161;
+		display: block;
+		margin-top: 15px;
+		margin-left: 100px;
+	}
+	.sec-right .yunhan{
+		width: 700px;
+		height: 230px;
+		margin-left: 100px;
+		margin-top: 15px;
+	}
+	.sec-right .kehu{
+		width:700px;
+		height: 230px;
+		margin-left: 100px;
+		margin-top: 15px;
+	}
+	.sec-right .wangzhan{
+		width: 700px;
+		height: 230px;
+		margin-left: 100px;
+		margin-top: 15px;
+	}
+	.yunhan>p{
+		line-height:28px ;
+		margin: 22px 0px 22px 0px;
+		text-indent: 2em;
+		font-size: 15px;
+		color: #101010;
+	}
+	.kehu>p{
+		line-height:28px ;
+		margin: 22px 0px 22px 0px;
+		text-indent: 2em;
+		font-size: 15px;
+		color: #101010;
+	}
+	.wangzhan>p{
+		line-height:28px ;
+		margin: 22px 0px 22px 0px;
+		text-indent: 2em;
+		font-size: 15px;
+		color: #101010;
+	}
+	.sec-right img{
+		width: 108px;
+		height: 108px;
+		margin-top: 30px;
+		margin-left: 400px;
+		float: none;
+	}
+	.sec-right h3{
+		color: #101010;
+		font-size: 18px;
+		font-weight: 500;
+		margin-left: 115px;
+		margin-top: 30px;
+	}
+}
